@@ -1,7 +1,7 @@
 // Select the database to use.
 use('ReactBackendProject');
 
-Insert a few documents into the PortfolioData collection.
+// Insert a few documents into the PortfolioData collection.
 db.getCollection('projects').insertMany(
     [
         {
@@ -12,7 +12,6 @@ db.getCollection('projects').insertMany(
             demo: 'https://dribbble.com/shots/21632973-Online-Crypto-Casino-Mobile-Designs',
         },
         {
-       
             image: 'https://cdn.dribbble.com/userupload/7531024/file/original-28960363b0b1e5a03c2f6f1f077c298e.jpg?compress=1&resize=1504x1128',
             title: 'Education App UIX',
             github: 'https://github.com',
