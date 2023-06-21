@@ -16,7 +16,7 @@ mongoose.connect(MONGO_DB_CONFIG.DB, {
 
 //Enable Cors
 app.use(cors());
-
+// king
 //Middleware to parse JSON data
 app.use(express.json());
 
