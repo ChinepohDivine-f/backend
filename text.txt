@@ -2,3 +2,5 @@ username: divinechinepoh
 password: 33ZOv7E87JVHjzZE
 
 mongodb+srv://divinechinepoh:33ZOv7E87JVHjzZE@cluster0.csaostk.mongodb.net/
+
+mongodb+srv://divinechinepoh:33ZOv7E87JVHjzZE@cluster0.csaostk.mongodb.net/?retryWrites=true&w=majority
